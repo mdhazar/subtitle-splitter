@@ -22,3 +22,5 @@ By doing so, the code ensures that the translated segments are synchronized with
   - The script divides the text content within each timestamp interval into smaller segments.
   - It calculates the optimal segmentation based on the length of the text and the number of timestamp intervals.
   - Each segment aims to balance readability and synchronization with the corresponding multimedia content.
+
+![gif showing output](https://github.com/mdhazar/subtitle-splitter/blob/main/subtitle_splitter.gif)
